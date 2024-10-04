@@ -5,8 +5,11 @@ module.exports = {
     './public/styles/**/*.css'
   ],
   theme: {
-    extend: {},
+    extend: {
+
+    },
   },
   plugins: [],
+  
 }
 
